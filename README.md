@@ -29,7 +29,7 @@ There is nothing to install: this repository is a browsable directory of externa
 
 | If you need… | Start with… |
 | --- | --- |
-| React components you can adapt in your project | [HeroUI](https://heroui.com/en/docs/react/components/), [shadcn/ui](https://ui.shadcn.com/docs/components), or [React Bits](https://reactbits.dev/) |
+| React components you can adapt in your project | [HeroUI](https://heroui.com/en/docs/react/components/), [shadcn/ui](https://ui.shadcn.com/docs/components), [React Bits](https://reactbits.dev/), or [Vengeance UI](https://www.vengenceui.com/) |
 | Angular components | [Hell's Kitchen UI](https://hellskitchen-ui.org/docs/component/) |
 | Accessible, unstyled React primitives | [Radix UI](https://www.radix-ui.com/primitives) |
 | Website and design-system references | [Refero Styles](https://styles.refero.design/) or [Webzooo](https://webzooo.com/) |
@@ -61,7 +61,10 @@ Ready-made components and lower-level primitives for building application interf
 | [Pioneer UI](https://www.pioneerui.com/docs/components) | Copy-and-install animated interface pieces such as hero sections, cards, backgrounds, buttons, and text effects. | React, Tailwind CSS, Framer Motion; shadcn CLI |
 | [Aceternity UI](https://ui.aceternity.com/) | Copyable React components, page blocks, and templates with animated effects. | React, Tailwind CSS, Motion |
 | [Magic UI](https://magicui.design/) | Open-source animated components and visual effects designed to pair with shadcn/ui. | React, TypeScript, Tailwind CSS, Motion |
-| [Uiverse](https://uiverse.io/) | Community-made UI elements and effects with code you can copy into a project or Figma. | HTML/CSS, Tailwind CSS, React |
+| [Vengeance UI](https://www.vengenceui.com/) | Open-source React components and blocks focused on hover effects, animated tooltips, and scroll-driven layouts, with a shadcn-compatible registry. | React, Next.js, shadcn/ui |
+| [Forge UI](https://forgeui.in/) | Copy-paste shadcn/ui components, blocks, and full-page templates for SaaS and web applications. | React, Next.js, Tailwind CSS, Motion, GSAP |
+| [Uilora](https://www.uilora.com/) | Copyable components, layouts, and interactive patterns for web and React Native, with a command-line installer and component playground. | React, Next.js, React Native, Expo, TypeScript, Tailwind CSS |
+| [Uiverse](https://uiverse.io/) | Community-built open-source UI elements with code to copy as HTML/CSS, Tailwind, React, or into Figma. | HTML/CSS, Tailwind CSS, React, Figma |
 
 ### Additional foundations
 
@@ -116,7 +119,7 @@ Use these when you need product UI references, visual direction, website example
 | Resource | What it offers | Best for |
 | --- | --- | --- |
 | [MotionSites](https://motionsites.ai/) | Ready-to-use prompts and examples for landing pages, site sections, and animated backgrounds. | Prompt-driven website exploration |
-| [GetLayers AI](https://www.getlayers.ai/) | Website and 3D-scene prompt templates aimed at producing more art-directed, cinematic AI-generated sites. | AI-assisted site concepts and visual scenes |
+| [GetLayers AI](https://www.getlayers.ai/) | Prompt templates for cinematic websites, 3D scenes, gradients, and interactive page sections. | Art-directed AI website concepts and visual scenes |
 
 ## Animation and interaction
 
