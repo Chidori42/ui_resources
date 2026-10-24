@@ -36,6 +36,8 @@ There is nothing to install: this repository is a browsable directory of externa
 | Website and design-system references | [Refero Styles](https://styles.refero.design/) or [Webzooo](https://webzooo.com/) |
 | Mobile and web product flows | [Mobbin](https://mobbin.com/) or [Refero Styles](https://styles.refero.design/) |
 | Website inspiration galleries | [Land-book](https://land-book.com/), [Siteinspire](https://www.siteinspire.com/), or [Httpster](https://httpster.net/) |
+| Immersive website showcases | [FunTech Experience 2026](https://experience2026.funtech.inc/) |
+| Product launch page references | [Shopify Editions: Winter '26](https://www.shopify.com/editions/winter2026) |
 | Font libraries | [Fontshare](https://www.fontshare.com/), [Google Fonts](https://fonts.google.com/), or [Font Squirrel](https://www.fontsquirrel.com/) |
 | Font pairing and typography references | [Fontpair](https://fontpair.co/), [Fontjoy](https://fontjoy.com/), or [Typewolf](https://www.typewolf.com/) |
 | Device mockups and product previews | [LS Graphics](https://www.ls.graphics/), [Mockuuups Studio](https://mockuuups.studio/), or [Previewed](https://previewed.app/) |
@@ -170,6 +172,13 @@ Use these when you need product UI references, visual direction, website example
 | [Awwwards](https://www.awwwards.com/) | A showcase and awards directory for notable websites and digital experiences. | Studying highly art-directed web work |
 | [Dribbble](https://dribbble.com/) | A creative community where designers share web, product, mobile, and motion design work. | Quick visual exploration and designer portfolios |
 | [Behance](https://www.behance.net/) | A portfolio platform for publishing and discovering creative projects, including digital and UI design. | Reviewing full design case studies and visual portfolios |
+
+### Interactive website showcases
+
+| Resource | What it offers | Best for |
+| --- | --- | --- |
+| [FunTech Experience 2026](https://experience2026.funtech.inc/) | An immersive, AI-crafted brand experience with a sequence of interactive 3D scenes. | Studying narrative-led, experimental web experiences and rich motion design |
+| [Shopify Editions: Winter '26](https://www.shopify.com/editions/winter2026) | A visually rich product launch page presenting Shopify's Winter '26 commerce updates through themed sections and interactive media. | Exploring long-form product storytelling and ecommerce feature showcases |
 
 ### AI design prompts
 
