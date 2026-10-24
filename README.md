@@ -1,6 +1,6 @@
 # UI Resources
 
-An index of 80+ UI and front-end resources for modern web projects, covering design inspiration, component libraries, design systems, animation, visual effects, data visualization, and icons.
+An index of 80+ UI and front-end resources for modern web projects, covering design inspiration, component libraries, design systems, fonts and typography, animation, visual effects, data visualization, and icons.
 
 Use it to find a starting point for a component, explore interface patterns, add motion, or build a data visualization. This repository is a link catalog; the resources themselves are maintained by their respective owners.
 
@@ -10,6 +10,7 @@ Use it to find a starting point for a component, explore interface patterns, add
 - [Quick picks](#quick-picks)
 - [Component libraries and building blocks](#component-libraries-and-building-blocks)
 - [Design inspiration and prompt libraries](#design-inspiration-and-prompt-libraries)
+- [Fonts and typography](#fonts-and-typography)
 - [Animation and interaction](#animation-and-interaction)
 - [Design presentation and mockups](#design-presentation-and-mockups)
 - [CSS and visual effects](#css-and-visual-effects)
@@ -35,6 +36,8 @@ There is nothing to install: this repository is a browsable directory of externa
 | Website and design-system references | [Refero Styles](https://styles.refero.design/) or [Webzooo](https://webzooo.com/) |
 | Mobile and web product flows | [Mobbin](https://mobbin.com/) or [Refero Styles](https://styles.refero.design/) |
 | Website inspiration galleries | [Land-book](https://land-book.com/), [Siteinspire](https://www.siteinspire.com/), or [Httpster](https://httpster.net/) |
+| Font libraries | [Fontshare](https://www.fontshare.com/), [Google Fonts](https://fonts.google.com/), or [Font Squirrel](https://www.fontsquirrel.com/) |
+| Font pairing and typography references | [Fontpair](https://fontpair.co/), [Fontjoy](https://fontjoy.com/), or [Typewolf](https://www.typewolf.com/) |
 | JavaScript animation | [GSAP](https://gsap.com/), [Anime.js](https://animejs.com/), or [Motion](https://motion.dev/) |
 | Interactive animation assets | [Rive](https://rive.app/) or [LottieFiles](https://lottiefiles.com/) |
 | Smooth scrolling | [Lenis](https://lenis.dev/) |
@@ -120,6 +123,36 @@ Use these when you need product UI references, visual direction, website example
 | --- | --- | --- |
 | [MotionSites](https://motionsites.ai/) | Ready-to-use prompts and examples for landing pages, site sections, and animated backgrounds. | Prompt-driven website exploration |
 | [GetLayers AI](https://www.getlayers.ai/) | Prompt templates for cinematic websites, 3D scenes, gradients, and interactive page sections. | Art-directed AI website concepts and visual scenes |
+
+## Fonts and typography
+
+Find typefaces for web and product interfaces, check how font families pair, and learn the licensing and delivery requirements before using fonts in a project.
+
+### Font libraries and catalogs
+
+| Resource | What it offers | Best for |
+| --- | --- | --- |
+| [Fontshare](https://www.fontshare.com/) | A searchable collection of typefaces from the Indian Type Foundry, with previews and downloads. | Exploring contemporary fonts; review the license for each font and intended use |
+| [Google Fonts](https://fonts.google.com/) | A large catalog of open-source font families with specimens, language filters, and web embedding options. | Finding and serving open-source fonts in websites and apps |
+| [Font Squirrel](https://www.fontsquirrel.com/) | A curated font catalog plus a webfont generator and image-based font matcher. | Finding fonts marked for commercial use or identifying fonts from images; verify each font's license |
+| [Bunny Fonts](https://fonts.bunny.net/) | A hosted web-font catalog with a CSS API that is compatible with the Google Fonts CSS API and is presented as privacy-first. | Serving web fonts with a privacy-focused provider or switching from the Google Fonts CSS endpoint |
+| [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) | An open-source type foundry publishing a catalog of fonts and typography learning resources. | Open-source font families and foundational typography education |
+
+### Foundries and font marketplaces
+
+| Resource | What it offers | Best for |
+| --- | --- | --- |
+| [Adobe Fonts](https://fonts.adobe.com/) | A browsable font library integrated with Adobe Creative Cloud, with desktop activation and hosted web projects. | Creative Cloud workflows; check subscription terms and note that font files cannot be self-hosted through the service |
+| [MyFonts](https://www.myfonts.com/) | A marketplace for browsing and licensing typefaces from independent designers and foundries. | Finding and purchasing a specific commercial font family |
+| [Pangram Pangram Foundry](https://pangrampangram.com/) | An independent type foundry with commercial font families, font trials, and educational resources. | Exploring distinctive display and text families before purchasing a license |
+
+### Font pairing and typography references
+
+| Resource | What it offers | Best for |
+| --- | --- | --- |
+| [Fontpair](https://fontpair.co/) | Curated type pairings, previews, and typography inspiration. | Comparing headline and body font combinations |
+| [Fontjoy](https://fontjoy.com/) | A font pairing tool that generates combinations and lets you lock or manually choose families. | Quickly exploring contrasting font combinations |
+| [Typewolf](https://www.typewolf.com/) | Typography inspiration, font lists, site examples, and learning resources. | Researching typefaces in use and exploring alternatives by classification |
 
 ## Animation and interaction
 
