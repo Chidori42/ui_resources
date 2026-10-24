@@ -40,6 +40,10 @@ There is nothing to install: this repository is a browsable directory of externa
 | Font pairing and typography references | [Fontpair](https://fontpair.co/), [Fontjoy](https://fontjoy.com/), or [Typewolf](https://www.typewolf.com/) |
 | Device mockups and product previews | [LS Graphics](https://www.ls.graphics/), [Mockuuups Studio](https://mockuuups.studio/), or [Previewed](https://previewed.app/) |
 | Design asset marketplaces | [UI8](https://ui8.net/) or [Craftwork](https://craftwork.design/) |
+| Explore community component collections | [21st.dev](https://21st.dev/), [OpenSource UI](https://opensourceui.in/), or [Uiverse](https://uiverse.io/) |
+| Copy ready-made page sections | [shadcnblocks](https://www.shadcnblocks.com/), [blocks.so](https://blocks.so/), or [Spectrum UI](https://ui.spectrumhq.in/) |
+| AI interface components | [Beautiful UI](https://www.beautifului.dev/), [AICSS](https://www.aicss.dev/), or [Thinking Orbs](https://www.thinkingorbs.com/) |
+| Animated React components | [Motion Primitives](https://motion-primitives.com/), [React Bits](https://reactbits.dev/), or [Componentry](https://componentry.dev/) |
 | JavaScript animation | [GSAP](https://gsap.com/), [Anime.js](https://animejs.com/), or [Motion](https://motion.dev/) |
 | Interactive animation assets | [Rive](https://rive.app/) or [LottieFiles](https://lottiefiles.com/) |
 | Smooth scrolling | [Lenis](https://lenis.dev/) |
@@ -71,6 +75,53 @@ Ready-made components and lower-level primitives for building application interf
 | [Uilora](https://www.uilora.com/) | Copyable components, layouts, and interactive patterns for web and React Native, with a command-line installer and component playground. | React, Next.js, React Native, Expo, TypeScript, Tailwind CSS |
 | [Uiverse](https://uiverse.io/) | Community-built open-source UI elements with code to copy as HTML/CSS, Tailwind, React, or into Figma. | HTML/CSS, Tailwind CSS, React, Figma |
 
+### Component collections and themed systems
+
+| Resource | What it offers | Stack / format |
+| --- | --- | --- |
+| [21st.dev](https://21st.dev/) | A searchable marketplace of community-made components, blocks, and templates, with prompt, CLI, and AI-agent workflows. | React, TypeScript, Tailwind CSS, shadcn registry |
+| [OpenSource UI](https://opensourceui.in/) | Copy-ready React components, widgets, and device mockups with live previews. | React, Next.js, TypeScript, Tailwind CSS |
+| [Spectrum UI](https://ui.spectrumhq.in/) | An open-source collection of animated components and page blocks, with copyable source, shadcn CLI, and MCP support. | React, Next.js, Tailwind CSS, Motion, TypeScript |
+| [8bitcn](https://www.8bitcn.com/) | Retro-styled, pixel-inspired components distributed through a shadcn-compatible registry. | React, Tailwind CSS, shadcn/ui |
+| [Kokonut UI](https://kokonutui.com/) | Components, dashboard patterns, and larger page templates with animated treatments; the catalog includes free and Pro content. | React, Next.js, Tailwind CSS, Motion, shadcn CLI |
+| [Origin UI](https://originui.com/) | A large open-source collection of copy-and-paste React components for application interfaces. | React, Tailwind CSS |
+
+### Website blocks and page sections
+
+| Resource | What it offers | Stack / format |
+| --- | --- | --- |
+| [shadcnblocks](https://www.shadcnblocks.com/) | Components, page blocks, templates, themes, and tools built around shadcn/ui, with both free and paid offerings. | React, Next.js, Tailwind CSS, shadcn/ui; also Vue blocks |
+| [blocks.so](https://blocks.so/) | Accessible, customizable, open-source interface blocks that can be copied or installed from a registry. | React, Tailwind CSS, shadcn CLI |
+
+### Animated and interactive components
+
+| Resource | What it offers | Stack / format |
+| --- | --- | --- |
+| [Motion Primitives](https://motion-primitives.com/) | An open-source, copy-and-install kit of animated interface components and effects. | React, Tailwind CSS, Motion |
+| [NumberFlow](https://number-flow.barvian.me/vanilla) | Animated number displays that smoothly update changing values and support locale-aware formatting. | JavaScript and framework integrations |
+| [Fancy Components](https://www.fancycomponents.dev/) | Playful, copyable components and micro-interactions, including text effects, physics experiments, and image interactions. | React, TypeScript, Tailwind CSS, Motion |
+| [Amicro](https://amicro.vercel.app/) | A browsable collection of micro-interactions and transition components, with individual install commands. | React, Motion |
+| [Painterly (Stage listing)](https://getstage.co/component-libraries/painterly) | Artistic, canvas-based loading animations packaged as components. | React, Canvas |
+| [Bencho](https://bencho.dev/) | Live interactive components and UI blocks that can be explored, adjusted, and copied into a project. | React; review each component's dependencies |
+| [Skiper UI](https://skiper-ui.com/) | Uncommon animated components and blocks, distributed through a shadcn-compatible registry; some items are premium. | React, Next.js, Tailwind CSS, Framer Motion, GSAP |
+| [Thinking Orbs](https://www.thinkingorbs.com/) | Animated status indicators for AI states such as working, searching, listening, and composing. | React, JavaScript, SwiftUI |
+| [ObsidianUI](https://www.obsidianui.dev/) | Animated and interactive components, blocks, and templates with editable source. | React, TypeScript, Tailwind CSS, Motion |
+| [Componentry](https://componentry.dev/) | A growing library of animated React components with editable code and CLI or MCP installation workflows. | React; shadcn CLI, MCP |
+| [Arc](https://uiarc.dev/) | React components and larger blocks with motion, keyboard behavior, reduced-motion support, and AI-readable docs. | React, TypeScript, CSS Modules; shadcn CLI, MCP |
+
+### AI interface components
+
+| Resource | What it offers | Stack / format |
+| --- | --- | --- |
+| [Beautiful UI](https://www.beautifului.dev/) | Copy-ready interface blocks for AI chat, reasoning, tool activity, approvals, and agent status. | React, TypeScript, shadcn/ui registry |
+| [AICSS](https://www.aicss.dev/) | Copy-and-paste components for AI interfaces, including thinking states, tool calls, streaming text, and structured outputs. | React, Vue, Svelte |
+
+### Component research and references
+
+| Resource | What it offers | Best for |
+| --- | --- | --- |
+| [The Component Gallery](https://component.gallery/) | A framework-independent reference library comparing interface patterns across design systems. | Researching component conventions before choosing or designing an implementation |
+
 ### Additional foundations
 
 These foundations complement the component collections above. Use source-first components when you want to own and adapt the code, or headless primitives when you want to build your own visual system.
@@ -81,6 +132,7 @@ These foundations complement the component collections above. Use source-first c
 | [Radix UI Primitives](https://www.radix-ui.com/primitives) | Unstyled React building blocks with accessibility and interaction behavior handled, ready for your own visual design. | React |
 | [Headless UI](https://headlessui.com/) | Unstyled, accessible interactive components intended to work well with Tailwind CSS. | React, Vue |
 | [Base UI](https://base-ui.com/) | Unstyled, composable React components for teams building their own accessible design system. | React; works with CSS, Tailwind, and CSS-in-JS |
+| [coss/ui](https://coss.com/ui) | A source-first React design system built on Base UI, with styled primitives and higher-level patterns. It is the ongoing evolution of Origin UI. | React, Base UI, Tailwind CSS v4; currently in active development |
 | [Ark UI](https://ark-ui.com/) | Headless components with interaction behavior for building a custom design system across several frameworks. | React, Solid, Vue, Svelte |
 
 ### Framework component systems
@@ -243,6 +295,9 @@ Use these tools to turn static screens into polished product previews, motion pi
 | [visx](https://visx.airbnb.tech/) | Reusable low-level React visualization components that combine D3 utilities with React rendering. | Custom React charts built from smaller primitives |
 | [ApexCharts](https://apexcharts.com/) | An interactive JavaScript charting suite with chart types, maps, stock charts, and a chart editor. | Dashboards and interactive charts with companion visualization tools |
 | [Highcharts](https://www.highcharts.com/) | A broad charting library with integrations for JavaScript and several front-end frameworks. | Business and analytics charts; review the license for your use case |
+| [Bklit UI](https://bklit.com/) | Open-source chart components and utilities with a playground for adjusting chart styling and exporting code. | React, shadcn registry; charts and data visualization |
+| [Evil Charts](https://evilcharts.com/) | Animated, design-focused chart components offered with both Recharts and Apache ECharts implementations. | React, shadcn/ui, Recharts, Apache ECharts |
+| [Liveline](https://benji.org/liveline) | A real-time, animated line chart component with smooth interpolation and candlestick and multi-series modes. | React, Canvas |
 | [Victory](https://nearform.com/open-source/victory/) | Composable React components for charting and data visualization. | Advanced charts built from reusable React components |
 | [Observable Plot](https://observablehq.com/plot/) | A concise, declarative JavaScript API for exploratory data visualization, built by the D3 team. | Quickly composing analytical charts from marks, scales, and transforms |
 | [Vega-Lite](https://vega.github.io/vega-lite/) | A high-level JSON grammar for creating interactive graphics from data. | Declarative chart specifications, layered views, and analysis |
