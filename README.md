@@ -38,6 +38,8 @@ There is nothing to install: this repository is a browsable directory of externa
 | Website inspiration galleries | [Land-book](https://land-book.com/), [Siteinspire](https://www.siteinspire.com/), or [Httpster](https://httpster.net/) |
 | Font libraries | [Fontshare](https://www.fontshare.com/), [Google Fonts](https://fonts.google.com/), or [Font Squirrel](https://www.fontsquirrel.com/) |
 | Font pairing and typography references | [Fontpair](https://fontpair.co/), [Fontjoy](https://fontjoy.com/), or [Typewolf](https://www.typewolf.com/) |
+| Device mockups and product previews | [LS Graphics](https://www.ls.graphics/), [Mockuuups Studio](https://mockuuups.studio/), or [Previewed](https://previewed.app/) |
+| Design asset marketplaces | [UI8](https://ui8.net/) or [Craftwork](https://craftwork.design/) |
 | JavaScript animation | [GSAP](https://gsap.com/), [Anime.js](https://animejs.com/), or [Motion](https://motion.dev/) |
 | Interactive animation assets | [Rive](https://rive.app/) or [LottieFiles](https://lottiefiles.com/) |
 | Smooth scrolling | [Lenis](https://lenis.dev/) |
@@ -181,13 +183,24 @@ Tools for animating interface elements and coordinating scroll, gesture, SVG, or
 
 Use these tools to turn static screens into polished product previews, motion pieces, or interactive 3D scenes.
 
-### Product showcases and mockups
+### Mockup libraries and product showcases
 
 | Resource | What it offers | Best for |
 | --- | --- | --- |
+| [LS Graphics](https://www.ls.graphics/) | A catalog of device, brand, print, and animated mockups, plus illustrations and an in-browser editor for static, live, and 3D scenes. | High-quality mockup assets and polished product presentations; check free and subscription usage terms |
+| [Mockuuups Studio](https://mockuuups.studio/) | A searchable mockup library with a drag-and-drop generator, Figma plugin, desktop app, and Adobe Express integration. | Quickly placing app screens into device and lifestyle scenes |
+| [Mockup World](https://www.mockupworld.co/) | A curated directory of downloadable mockups organized by devices, print, packaging, apparel, and more. | Finding free mockup files for common product and branding work; check each creator's license |
+| [Previewed](https://previewed.app/) | A browser-based mockup generator for device scenes, app store screenshots, 3D renders, and promo animations. | Creating app store visuals and 2D or 3D device presentations |
 | [Animos](https://animos.app/) | Browser-based motion templates: add your images or videos, adjust a template, and export a showcase as MP4 or WebM. | Animated portfolio pieces, product previews, and launch posts |
 | [Shots](https://shots.so/) | Device and browser mockups with image and video effects for design showcases. | Social posts, landing-page visuals, and app previews |
 | [Rotato](https://rotato.app/) | A 3D mockup tool for placing product screens into device scenes and exporting images or movies. | Polished phone and device presentations |
+
+### Design asset marketplaces
+
+| Resource | What it offers | Best for |
+| --- | --- | --- |
+| [UI8](https://ui8.net/) | A design marketplace covering mockups, 3D assets, UI kits, templates, icons, illustrations, and fonts. | Browsing and licensing reusable visual assets across product design and presentations |
+| [Craftwork](https://craftwork.design/) | A marketplace for mockups, 3D models, illustrations, UI components, templates, fonts, and other design packs. | Finding coordinated asset packs from independent designers |
 
 ### 3D and motion design
 
