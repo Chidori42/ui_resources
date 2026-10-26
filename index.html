@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f4f1eb" />
+    <meta
+      name="description"
+      content="A considered field guide to 100+ UI libraries, design references, type tools, motion systems, charts, and icons."
+    />
+    <meta property="og:title" content="Interface Index — a field guide for the web" />
+    <meta
+      property="og:description"
+      content="Find the right ingredients for your next interface. Browse a curated directory of design and frontend resources."
+    />
+    <meta property="og:type" content="website" />
+    <title>Interface Index — a field guide for the web</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./catalog.js" defer></script>
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#library">Skip to the resource library</a>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Interface Index home">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <span>interface<span class="brand-slash">/</span>index</span>
+        <span class="brand-version">VOL. 01</span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="#library">The library</a>
+        <a href="#about">About</a>
+        <a href="https://github.com/Chidori42/ui_resources#adding-a-resource" target="_blank" rel="noreferrer">Contribute</a>
+      </nav>
+      <a
+        class="header-star"
+        href="https://github.com/Chidori42/ui_resources"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="m10 2.4 2.3 4.7 5.2.8-3.8 3.7.9 5.2-4.6-2.5-4.6 2.5.9-5.2-3.8-3.7 5.2-.8L10 2.4Z" /></svg>
+        <span>Star on GitHub</span>
+        <span class="star-arrow" aria-hidden="true">↗</span>
+      </a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero__grid">
+          <div class="hero__copy">
+            <p class="eyebrow"><span class="eyebrow-dot"></span> THE OPEN WEB TOOLKIT <span class="eyebrow-line"></span> EDITION 01</p>
+            <h1 id="hero-title">Make good<br />things for the <em>web.</em></h1>
+            <p class="hero__intro">
+              A field guide to the tools, systems, and visual ideas behind
+              thoughtful digital experiences.
+            </p>
+            <div class="hero__actions">
+              <a class="button button--acid" href="#library">Explore the index <span aria-hidden="true">↓</span></a>
+              <a class="hero__secondary" href="https://github.com/Chidori42/ui_resources" target="_blank" rel="noreferrer">
+                Open source, made together <span aria-hidden="true">↗</span>
+              </a>
+            </div>
+            <div class="hero__facts" aria-label="Catalog summary">
+              <div><strong id="heroResourceCount">100+</strong><span>resources</span></div>
+              <span class="fact-rule" aria-hidden="true"></span>
+              <div><strong id="heroCategoryCount">08</strong><span>collections</span></div>
+              <span class="fact-rule" aria-hidden="true"></span>
+              <div><strong>01</strong><span>open index</span></div>
+            </div>
+          </div>
+
+          <div class="hero-art" aria-hidden="true">
+            <div class="hero-art__orbit hero-art__orbit--one"></div>
+            <div class="hero-art__orbit hero-art__orbit--two"></div>
+            <div class="hero-art__cross hero-art__cross--one">✳</div>
+            <div class="hero-art__cross hero-art__cross--two">✳</div>
+            <div class="hero-art__note hero-art__note--top">A field guide<br />for the curious <span>↗</span></div>
+            <div class="hero-art__card hero-art__card--back">
+              <span class="hero-art__micro">INDEX / 002</span>
+              <span class="hero-art__back-copy">TOOLS<br />THAT MAKE<br /><em>IDEAS MOVE</em></span>
+              <span class="hero-art__back-dot"></span>
+            </div>
+            <div class="hero-art__card hero-art__card--front">
+              <div class="hero-art__card-head"><span>UI / FRONTEND</span><span>2026 ↗</span></div>
+              <div class="hero-art__card-title">The<br /><em>interface</em><br />index<span class="hero-art__asterisk">✳</span></div>
+              <div class="hero-art__card-footer"><span>DESIGN × CODE × CURIOSITY</span><span id="heroRange">001—129</span></div>
+              <div class="hero-art__sun"></div>
+            </div>
+            <div class="hero-art__note hero-art__note--bottom">COLLECT<br />WHAT INSPIRES <span>✦</span></div>
+            <div class="hero-art__tiny-star">✳</div>
+          </div>
+        </div>
+        <div class="hero__ticker" aria-label="Resource categories">
+          <div class="ticker-track">
+            <span>COMPONENTS</span><i>✳</i><span>TYPE</span><i>✳</i><span>MOTION</span><i>✳</i><span>VISUAL EFFECTS</span><i>✳</i><span>CHARTS</span><i>✳</i><span>ICONS</span><i>✳</i>
+            <span aria-hidden="true">COMPONENTS</span><i aria-hidden="true">✳</i><span aria-hidden="true">TYPE</span><i aria-hidden="true">✳</i><span aria-hidden="true">MOTION</span><i aria-hidden="true">✳</i><span aria-hidden="true">VISUAL EFFECTS</span><i aria-hidden="true">✳</i><span aria-hidden="true">CHARTS</span><i aria-hidden="true">✳</i><span aria-hidden="true">ICONS</span><i aria-hidden="true">✳</i>
+          </div>
+        </div>
+      </section>
+
+      <section class="library section-wrap" id="library" aria-labelledby="library-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow eyebrow--ink"><span class="eyebrow-dot"></span> THE INDEX <span class="section-number">01 / 08</span></p>
+            <h2 id="library-title">Find your <em>next.</em></h2>
+          </div>
+          <p class="section-heading__aside">A growing collection for people who care about how the web feels, works, and looks.</p>
+        </div>
+
+        <div class="library-controls">
+          <label class="search-box" for="searchInput">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 4.2 4.2"></path></svg>
+            <input id="searchInput" type="search" placeholder="Search tools, patterns, or ideas…" autocomplete="off" />
+            <kbd>/</kbd>
+          </label>
+          <label class="sort-control" for="sortSelect">
+            <span>Sort</span>
+            <select id="sortSelect" aria-label="Sort resources">
+              <option value="curated">Curated</option>
+              <option value="az">A to Z</option>
+              <option value="za">Z to A</option>
+            </select>
+            <span class="select-chevron" aria-hidden="true">⌄</span>
+          </label>
+        </div>
+
+        <div class="filter-row">
+          <div class="category-filters" id="categoryFilters" role="group" aria-label="Filter by category"></div>
+          <button class="saved-filter" id="savedToggle" type="button" aria-pressed="false">
+            <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M5 3.5h10v13l-5-3.1-5 3.1v-13Z"></path></svg>
+            <span>Saved</span><span class="saved-count" id="savedCount">0</span>
+          </button>
+        </div>
+
+        <div class="results-bar">
+          <p id="resultCount" role="status" aria-live="polite">Loading the index…</p>
+          <span><span class="results-pulse"></span> INDEPENDENT RESOURCE INDEX</span>
+        </div>
+
+        <div class="resource-grid" id="resourceGrid" aria-live="polite"></div>
+        <div class="empty-state" id="emptyState" hidden>
+          <span class="empty-state__mark">∅</span>
+          <h3>No matches in the index.</h3>
+          <p>Try another phrase or clear your filters.</p>
+          <button class="button button--dark" id="clearFilters" type="button">Clear filters</button>
+        </div>
+        <div class="load-more-wrap" id="loadMoreWrap" hidden>
+          <button class="button button--outline" id="loadMoreButton" type="button">Load more resources <span aria-hidden="true">↓</span></button>
+          <span id="remainingCount"></span>
+        </div>
+      </section>
+
+      <section class="contribute section-wrap" id="about" aria-labelledby="contribute-title">
+        <div class="contribute__pattern" aria-hidden="true">✳</div>
+        <div class="contribute__content">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> BUILT IN THE OPEN</p>
+          <h2 id="contribute-title">Good finds<br />are better <em>shared.</em></h2>
+          <p>Interface Index is an independent, community-curated directory. Found something worth adding? Help the next person find it.</p>
+          <div class="contribute__actions">
+            <a class="button button--acid" href="https://github.com/Chidori42/ui_resources#adding-a-resource" target="_blank" rel="noreferrer">Suggest a resource <span aria-hidden="true">↗</span></a>
+            <a class="button button--light" href="https://github.com/Chidori42/ui_resources" target="_blank" rel="noreferrer">
+              <svg viewBox="0 0 20 20" aria-hidden="true"><path d="m10 2.4 2.3 4.7 5.2.8-3.8 3.7.9 5.2-4.6-2.5-4.6 2.5.9-5.2-3.8-3.7 5.2-.8L10 2.4Z" /></svg>
+              Star the repository <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+        </div>
+        <div class="contribute__badge" aria-hidden="true"><span>OPEN</span><strong>↗</strong><span>SOURCE</span></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <a class="brand brand--footer" href="#top">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <span>interface<span class="brand-slash">/</span>index</span>
+      </a>
+      <p>Made for curious minds. Links belong to their makers.</p>
+      <a href="https://github.com/Chidori42/ui_resources" target="_blank" rel="noreferrer">OPEN SOURCE ON GITHUB ↗</a>
+    </footer>
+  </body>
+</html>
