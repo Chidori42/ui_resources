@@ -1,13 +1,8 @@
-# UI Resources — Interface Index
+# UI Resources
 
-A curated field guide to 129 UI and front-end resources for modern web projects, covering component libraries, design inspiration, type, motion, visual effects, data visualization, icons, and more.
+An index of 80+ UI and front-end resources for modern web projects, covering design inspiration, component libraries, design systems, fonts and typography, animation, visual effects, data visualization, and icons.
 
-The repository includes a GitHub Pages-ready interactive showcase and a complete Markdown directory. This is an independent link catalog; the resources themselves are maintained by their respective owners.
-
-[![GitHub stars](https://img.shields.io/github/stars/Chidori42/ui_resources?style=social)](https://github.com/Chidori42/ui_resources/stargazers)
-[![Showcase deployment](https://github.com/Chidori42/ui_resources/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/Chidori42/ui_resources/actions/workflows/pages.yml)
-
-If this index helps with a project, [leave the repository a star](https://github.com/Chidori42/ui_resources).
+Use it to find a starting point for a component, explore interface patterns, add motion, or build a data visualization. This repository is a link catalog; the resources themselves are maintained by their respective owners.
 
 ## Contents
 
@@ -25,13 +20,11 @@ If this index helps with a project, [leave the repository a star](https://github
 
 ## Getting started
 
-The repository includes a no-build, responsive showcase page and a Markdown directory. No npm install is needed.
+There is nothing to install: this repository is a browsable directory of external resources.
 
-1. **Publish online:** select **Settings → Pages → Build and deployment → GitHub Actions**. Then run **Publish interface index** once from the Actions tab. The showcase will be available at `https://chidori42.github.io/ui_resources/`; later pushes to `main` deploy automatically.
-2. **Preview locally:** from the repository root, run `python3 -m http.server 8000`, then open `http://localhost:8000`.
-3. **Explore this directory:** choose a category below or use the [quick picks](#quick-picks). Open each resource's own setup guide for framework and installation details.
-4. **Update the showcase data:** after editing a resource table, run `python3 scripts/build_catalog.py` to regenerate `catalog.json` and the browser-ready `catalog.js` from this README.
-5. Review each resource's current license, pricing, compatibility, and accessibility guidance before adopting it in a project.
+1. Choose a category below or use the [quick picks](#quick-picks) to narrow down what you need.
+2. Open a resource and follow its own setup guide for installation and framework requirements.
+3. Review its current license, pricing, and accessibility guidance before adopting it in a project.
 
 ## Quick picks
 
