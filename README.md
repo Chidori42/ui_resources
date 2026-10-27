@@ -256,6 +256,12 @@ Use these tools to turn static screens into polished product previews, motion pi
 | [Shots](https://shots.so/) | Device and browser mockups with image and video effects for design showcases. | Social posts, landing-page visuals, and app previews |
 | [Rotato](https://rotato.app/) | A 3D mockup tool for placing product screens into device scenes and exporting images or movies. | Polished phone and device presentations |
 
+### Website and portfolio templates
+
+| Resource | What it offers | Best for |
+| --- | --- | --- |
+| [Framer Resume Templates](https://www.framer.com/marketplace/templates/categories/resume/) | A marketplace category for Framer resume sites that present experience, skills, and selected work; listings include free and paid options. | Creating a personal résumé or CV website with a Framer template |
+
 ### Design asset marketplaces
 
 | Resource | What it offers | Best for |
