@@ -814,6 +814,15 @@ window.INTERFACE_INDEX = {
           "subcategory": "Mockup libraries and product showcases"
         },
         {
+          "name": "Framer Resume Templates",
+          "url": "https://www.framer.com/marketplace/templates/categories/resume/",
+          "description": "A marketplace category for Framer resume sites that present experience, skills, and selected work; listings include free and paid options.",
+          "details": "Creating a personal résumé or CV website with a Framer template",
+          "category": "presentation",
+          "categoryName": "Presentation",
+          "subcategory": "Website and portfolio templates"
+        },
+        {
           "name": "UI8",
           "url": "https://ui8.net/",
           "description": "A design marketplace covering mockups, 3D assets, UI kits, templates, icons, illustrations, and fonts.",
@@ -1995,6 +2004,15 @@ window.INTERFACE_INDEX = {
       "category": "presentation",
       "categoryName": "Presentation",
       "subcategory": "Mockup libraries and product showcases"
+    },
+    {
+      "name": "Framer Resume Templates",
+      "url": "https://www.framer.com/marketplace/templates/categories/resume/",
+      "description": "A marketplace category for Framer resume sites that present experience, skills, and selected work; listings include free and paid options.",
+      "details": "Creating a personal résumé or CV website with a Framer template",
+      "category": "presentation",
+      "categoryName": "Presentation",
+      "subcategory": "Website and portfolio templates"
     },
     {
       "name": "UI8",
