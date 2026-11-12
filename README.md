@@ -38,7 +38,7 @@ There is nothing to install: this repository is a browsable directory of externa
 | Website inspiration galleries | [Land-book](https://land-book.com/), [Siteinspire](https://www.siteinspire.com/), or [Httpster](https://httpster.net/) |
 | Immersive website showcases | [FunTech Experience 2026](https://experience2026.funtech.inc/) |
 | Product launch page references | [Shopify Editions: Winter '26](https://www.shopify.com/editions/winter2026) |
-| Font libraries | [Fontshare](https://www.fontshare.com/), [Google Fonts](https://fonts.google.com/), or [Font Squirrel](https://www.fontsquirrel.com/) |
+| Font libraries | [1001 Fonts](https://www.1001fonts.com/), [Fontshare](https://www.fontshare.com/), [Google Fonts](https://fonts.google.com/), or [Font Squirrel](https://www.fontsquirrel.com/) |
 | Font pairing and typography references | [Fontpair](https://fontpair.co/), [Fontjoy](https://fontjoy.com/), or [Typewolf](https://www.typewolf.com/) |
 | Device mockups and product previews | [LS Graphics](https://www.ls.graphics/), [Mockuuups Studio](https://mockuuups.studio/), or [Previewed](https://previewed.app/) |
 | Design asset marketplaces | [UI8](https://ui8.net/) or [Craftwork](https://craftwork.design/) |
@@ -195,6 +195,7 @@ Find typefaces for web and product interfaces, check how font families pair, and
 
 | Resource | What it offers | Best for |
 | --- | --- | --- |
+| [1001 Fonts](https://www.1001fonts.com/) | A searchable catalog of free font downloads with filters for style, category, and intended use. | Browsing expressive display fonts; check each font's license before using it |
 | [Fontshare](https://www.fontshare.com/) | A searchable collection of typefaces from the Indian Type Foundry, with previews and downloads. | Exploring contemporary fonts; review the license for each font and intended use |
 | [Google Fonts](https://fonts.google.com/) | A large catalog of open-source font families with specimens, language filters, and web embedding options. | Finding and serving open-source fonts in websites and apps |
 | [Font Squirrel](https://www.fontsquirrel.com/) | A curated font catalog plus a webfont generator and image-based font matcher. | Finding fonts marked for commercial use or identifying fonts from images; verify each font's license |
