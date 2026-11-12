@@ -577,6 +577,15 @@
           "subcategory": "Font libraries and catalogs"
         },
         {
+          "name": "1001 Fonts — Arabic Fonts",
+          "url": "https://www.1001fonts.com/arabic-fonts.html",
+          "description": "A browsable directory of Arabic and Arabic-inspired fonts with previews, tags, filters, and download links.",
+          "details": "Exploring Arabic display and calligraphic styles; verify Arabic glyph coverage and the individual font's license before use",
+          "category": "typography",
+          "categoryName": "Type",
+          "subcategory": "Font libraries and catalogs"
+        },
+        {
           "name": "Font Squirrel",
           "url": "https://www.fontsquirrel.com/",
           "description": "A curated font catalog plus a webfont generator and image-based font matcher.",
@@ -1776,6 +1785,15 @@
       "url": "https://fonts.google.com/",
       "description": "A large catalog of open-source font families with specimens, language filters, and web embedding options.",
       "details": "Finding and serving open-source fonts in websites and apps",
+      "category": "typography",
+      "categoryName": "Type",
+      "subcategory": "Font libraries and catalogs"
+    },
+    {
+      "name": "1001 Fonts — Arabic Fonts",
+      "url": "https://www.1001fonts.com/arabic-fonts.html",
+      "description": "A browsable directory of Arabic and Arabic-inspired fonts with previews, tags, filters, and download links.",
+      "details": "Exploring Arabic display and calligraphic styles; verify Arabic glyph coverage and the individual font's license before use",
       "category": "typography",
       "categoryName": "Type",
       "subcategory": "Font libraries and catalogs"

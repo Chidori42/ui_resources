@@ -1,6 +1,6 @@
 # UI Resources — Interface Index
 
-A curated field guide to 129 UI and front-end resources for modern web projects, covering component libraries, design inspiration, type, motion, visual effects, data visualization, icons, and more.
+A curated field guide to 131 UI and front-end resources for modern web projects, covering component libraries, design inspiration, type, motion, visual effects, data visualization, icons, and more.
 
 The repository includes a GitHub Pages-ready interactive showcase and a complete Markdown directory. This is an independent link catalog; the resources themselves are maintained by their respective owners.
 
@@ -45,7 +45,7 @@ The repository includes a no-build, responsive showcase page and a Markdown dire
 | Website inspiration galleries | [Land-book](https://land-book.com/), [Siteinspire](https://www.siteinspire.com/), or [Httpster](https://httpster.net/) |
 | Immersive website showcases | [FunTech Experience 2026](https://experience2026.funtech.inc/) |
 | Product launch page references | [Shopify Editions: Winter '26](https://www.shopify.com/editions/winter2026) |
-| Font libraries | [Fontshare](https://www.fontshare.com/), [Google Fonts](https://fonts.google.com/), or [Font Squirrel](https://www.fontsquirrel.com/) |
+| Font libraries | [Fontshare](https://www.fontshare.com/), [Google Fonts](https://fonts.google.com/), [Font Squirrel](https://www.fontsquirrel.com/), or [1001 Fonts Arabic fonts](https://www.1001fonts.com/arabic-fonts.html) |
 | Font pairing and typography references | [Fontpair](https://fontpair.co/), [Fontjoy](https://fontjoy.com/), or [Typewolf](https://www.typewolf.com/) |
 | Device mockups and product previews | [LS Graphics](https://www.ls.graphics/), [Mockuuups Studio](https://mockuuups.studio/), or [Previewed](https://previewed.app/) |
 | Design asset marketplaces | [UI8](https://ui8.net/) or [Craftwork](https://craftwork.design/) |
@@ -204,6 +204,7 @@ Find typefaces for web and product interfaces, check how font families pair, and
 | --- | --- | --- |
 | [Fontshare](https://www.fontshare.com/) | A searchable collection of typefaces from the Indian Type Foundry, with previews and downloads. | Exploring contemporary fonts; review the license for each font and intended use |
 | [Google Fonts](https://fonts.google.com/) | A large catalog of open-source font families with specimens, language filters, and web embedding options. | Finding and serving open-source fonts in websites and apps |
+| [1001 Fonts — Arabic Fonts](https://www.1001fonts.com/arabic-fonts.html) | A browsable directory of Arabic and Arabic-inspired fonts with previews, tags, filters, and download links. | Exploring Arabic display and calligraphic styles; verify Arabic glyph coverage and the individual font's license before use |
 | [Font Squirrel](https://www.fontsquirrel.com/) | A curated font catalog plus a webfont generator and image-based font matcher. | Finding fonts marked for commercial use or identifying fonts from images; verify each font's license |
 | [Bunny Fonts](https://fonts.bunny.net/) | A hosted web-font catalog with a CSS API that is compatible with the Google Fonts CSS API and is presented as privacy-first. | Serving web fonts with a privacy-focused provider or switching from the Google Fonts CSS endpoint |
 | [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) | An open-source type foundry publishing a catalog of fonts and typography learning resources. | Open-source font families and foundational typography education |
